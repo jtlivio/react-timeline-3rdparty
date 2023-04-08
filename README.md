@@ -48,6 +48,18 @@ For more information about SPFx compatibility, please refer to <https://aka.ms/s
 
 ## Minimal Path to Awesome
 
+Create a Custom List
+
+| Name             | Type        |
+| ---------------- | --------------- |
+| MyAreas | Choice |
+| MyShortText | Single line of text |
+| MyHyperlink | Hyperlink or Picture |
+| MyIconRgb | Single line of text	|
+| MyIcon | Choice |
+| MyCardTitle | Single line of text |
+
+
 - Clone this repository (or [download this solution as a .ZIP file]() then unzip it)
 - From your command line, change your current directory to the directory containing this sample (`react-timeline-3rdparty`, located under `samples`)
 - in the command line run:
